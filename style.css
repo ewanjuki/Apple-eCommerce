@@ -58,7 +58,7 @@ html {
 .navbar {
     position: absolute;
     top: 3rem;
-    right: 3rem;
+    right: 10%;
 }
 
 .navbar-link {
