@@ -1,1 +1,1 @@
-Simple one page site for selling Apple products: iphone12, Macbook Air, Watches and Airpods.
+Simple one page eCommerce site for showing Apple products: iphone12, Macbook Air, Watches and Airpods.
